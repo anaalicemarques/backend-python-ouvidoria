@@ -1,3 +1,3 @@
 # Projeto Ouvidoria
 
-Implementação em `Python` de um sistema de Ouvidoria.
+Implementação em `Python` para um sistema de Ouvidoria.
